@@ -38,5 +38,3 @@ Built Spark ETL pipelines and automated data ingestion into AWS using Airflow an
 💼 **LinkedIn:** [linkedin.com/in/hetp111](https://www.linkedin.com/in/hetp111) (I'm active here so I won't miss your message!)
 
 📧 **Email:** [het.patel@alumni.scu.edu](mailto:het.patel@alumni.scu.edu)
-
----
