@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Het Patel
 I'm a **Software Engineer** focused on building **scalable distributed systems**, **Test/QA infrastructure**, **automation**, and **ML/data pipelines** with an emphasis on **backend** and **cloud-native architectures**.
 
 ---
