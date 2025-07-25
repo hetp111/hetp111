@@ -1,4 +1,4 @@
-I'm a **Software Engineer** skilled at **scalable distributed systems**, **Test/QA infrastructure**, **automation**, **backend** and **ML/data pipelines**.
+I'm a **Software Engineer** skilled in **scalable distributed systems**, **Test/QA infrastructure**, **automation**, **backend** and **ML/data pipelines**.
 
 ---
 ## 💼 Experience
