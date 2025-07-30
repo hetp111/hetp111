@@ -9,10 +9,10 @@ I'm a **Software Engineer** skilled in **scalable distributed systems**, **Test/
 
 ---
 ## 🛠️ Tech Stack
-**Languages:** Python, Go, Java, C++, Bash  
-**Tools & Frameworks:** Docker, Kubernetes, Airflow, Spark, Jenkins, GitLab CI, Flask, MLflow  
-**Cloud & Infra:** AWS, Kafka, Prometheus, Grafana, OpenTelemetry, Linux  
-**Domains:** Distributed Systems, QA/Test Automation, MLOps, CI/CD, Observability
+* **Languages:** Python, Go, Java, C++, Bash  
+* **Tools & Frameworks:** Docker, Kubernetes, Airflow, Spark, Jenkins, GitLab CI, Flask, MLflow  
+* **Cloud & Infra:** AWS, Kafka, Prometheus, Grafana, OpenTelemetry, Linux  
+* **Domains:** Distributed Systems, QA/Test Automation, MLOps, CI/CD, Observability
 
 
 ---
