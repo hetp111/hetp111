@@ -1,4 +1,4 @@
-I'm a **Software Engineer** skilled in **scalable distributed systems**, **Test/QA infrastructure**, **automation**, **backend** and **ML/data pipelines**.
+* I'm a **Software Engineer** skilled in **scalable distributed systems**, **Test/QA infrastructure**, **automation**, **backend** and **ML/data pipelines**.
 
 ---
 ## 💼 Experience
@@ -17,5 +17,5 @@ I'm a **Software Engineer** skilled in **scalable distributed systems**, **Test/
 
 ---
 ## 📬 Contact
-💼 **LinkedIn:** [linkedin.com/in/hetp111](https://www.linkedin.com/in/hetp111)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📧 **Email:** [het.patel@alumni.scu.edu](mailto:het.patel@alumni.scu.edu)
+* **LinkedIn:** [linkedin.com/in/hetp111](https://www.linkedin.com/in/hetp111)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* **Email:** [het.patel@alumni.scu.edu](mailto:het.patel@alumni.scu.edu)
