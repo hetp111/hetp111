@@ -2,10 +2,10 @@ I'm a **Software Engineer** skilled in **scalable distributed systems**, **Test/
 
 ---
 ## 💼 Experience
-🏥 Medtronic · **Software Engineer** – _QA Infrastructure & CI/CD_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *Los Angeles, CA &nbsp;&nbsp;&nbsp; Oct 2024 – Present*  
-🧠 Altair · **Tech Consultant Intern** – _Infra & Observability_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *Santa Clara, CA &nbsp;&nbsp;&nbsp; May 2024 – Oct 2024*  
-📶 Nokia · **Software Engineer Intern** – _Distributed Systems & MLOps_&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *Sunnyvale, CA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2023 – Dec 2023*  
-📊 Samsung · **Software Engineer Intern** – _Data Infrastructure_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *Bangalore, India &nbsp;&nbsp; Jan 2022 – Jul 2022*  
+* Medtronic · **Software Engineer** – _QA Infrastructure & CI/CD_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *Los Angeles, CA &nbsp;&nbsp;&nbsp; Oct 2024 – Present*  
+* Altair · **Tech Consultant Intern** – _Infra & Observability_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *Santa Clara, CA &nbsp;&nbsp;&nbsp; May 2024 – Oct 2024*  
+* Nokia · **Software Engineer Intern** – _Distributed Systems & MLOps_&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *Sunnyvale, CA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2023 – Dec 2023*  
+* Samsung · **Software Engineer Intern** – _Data Infrastructure_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *Bangalore, India &nbsp;&nbsp; Jan 2022 – Jul 2022*  
 
 ---
 ## 🛠️ Tech Stack
